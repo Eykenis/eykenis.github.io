@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eykenis.github.io/about/index.html</loc>
+    
+    <lastmod>2022-03-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eykenis.github.io/2022/02/24/Use-Mirai-in-ur-ECS-server/</loc>
     
     <lastmod>2022-03-15</lastmod>
@@ -199,13 +206,6 @@
   
   <url>
     <loc>https://eykenis.github.io/Gallery/index.html</loc>
-    
-    <lastmod>2021-07-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eykenis.github.io/about/index.html</loc>
     
     <lastmod>2021-07-12</lastmod>
     
