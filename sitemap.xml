@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eykenis.github.io/css/index.css</loc>
+    
+    <lastmod>2022-04-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eykenis.github.io/about/index.html</loc>
     
     <lastmod>2022-04-19</lastmod>
