@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eykenis.github.io/2022/04/20/OSTEP-Reading/</loc>
+    
+    <lastmod>2022-04-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eykenis.github.io/2020/12/13/Move-up/</loc>
     
     <lastmod>2022-04-22</lastmod>
@@ -754,6 +761,13 @@
   
   <url>
     <loc>https://eykenis.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</loc>
+    <lastmod>2022-04-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eykenis.github.io/tags/OS/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
