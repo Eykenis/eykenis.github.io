@@ -6,7 +6,7 @@
   <link href="https://eykenis.github.io/atom.xml" rel="self"/>
   
   <link href="https://eykenis.github.io/"/>
-  <updated>2023-01-03T08:11:53.452Z</updated>
+  <updated>2023-01-03T10:14:39.792Z</updated>
   <id>https://eykenis.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的2022</title>
+    <link href="https://eykenis.github.io/2023/01/03/2022summary/"/>
+    <id>https://eykenis.github.io/2023/01/03/2022summary/</id>
+    <published>2023-01-03T08:10:24.000Z</published>
+    <updated>2023-01-03T10:14:39.792Z</updated>
+    
+    <content type="html"><![CDATA[<p>今年看起来好像平平无奇，但也有一些闪光点。总之让我意识到自己是个缺乏恒心，难以坚持的人。好在自己也有心鞭策自己，成绩和成长也是有的。</p><h2 id="January"><a href="#January" class="headerlink" title="January"></a>January</h2><p>玩 Minecraft 和 Apex，开始看浅墨的《WINDOWS游戏编程从零开始》，第一次接触了 Windows API，然后开始了几乎可以称之为苦难之路的查文档。做了一个没什么内容，还卡的要死的半成品后作罢。在家真的难学习。</p><h2 id="February"><a href="#February" class="headerlink" title="February"></a>February</h2><p>2 月，接触聊天机器人，用 Mirai 框架搓了个<del>虚拟海猫</del>，顺便把 Java 捡起来一点点。期间打算和同学一起运营 Minecraft 服务器，但说实话我没有帮上什么忙，还在了解各种服务端的时候群就没人了（悲）。而海猫的寿命到现在也接近尾声（没钱续腾讯云了）哦对了，一二月还有个题外话：牛客寒假算法训练营又和去年一样基本没打。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103162549914.png" alt="image-20230103162549914"></p><h2 id="March"><a href="#March" class="headerlink" title="March"></a>March</h2><p>继续 Apex，成功上钻石，在当时算是前15%的分段，玩这么多年游戏以来算是我自己达到的最高的电竞游戏段位（虽然好像是被 Buhuan 拉上去的）。还不要说我是在人均 144Hz 年代玩着小屏幕，720P打起架来还只有三四十帧的破烂电脑。所以说，3 月我简直是玩嗨了。</p><p>途中打算画手书但画了几张效果不好放弃了，还是从打基础开始吧。其实也不是全部效果都不好，我觉得每次我开各种坑都还是有一些可以的东西的，但我总是不能持续稳定地产出导致很难最终完成，经常虎头蛇尾或者根本没有尾。TAT，或许是自己缺少合理的计划，喜欢拍脑子做事。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103162521570.png" alt="image-20230103162521570"></p><p>但这个时候另一条几乎已死的线被重新激活了。</p><p>XCPC 上我原本已经打算提前铁牌退役，但 cls 还是告诉我一年的时间还是有机会的…我当时的想法是，我还有这么多东西要学，现在还要花大量的时间去 all in 一个我不知道究竟能不能有一个好结果的竞赛，我是不愿意的。</p><p>cls 并没有多么寄希望于我，或许是校队的各位对算法竞赛原始的热爱让我没有就这样离开。除了 cls 当时也有其他人劝我继续努力。或许在当时的他们看来我只差一步之遥，但我自己清楚这几乎就是重新来过……一年蓝名的水平我自己是认为不够的，而且整个寒假和开学后的一大段时间我几乎是完全没有碰算法，几乎忘得差不多了。但是我还是继续了，组了新队，然后遇到了好队友 HennessyWithSoul. 或许是好队友们也让我后来确确实实坚持下来了。第二次当队长我真的很想好好和队友们一起训练，提出了一些方案但最后实施的都不太好。其实每个人都有自己的训练方案，但在我的经验看来效果不好，所以我会不放心。</p><h2 id="April"><a href="#April" class="headerlink" title="April"></a>April</h2><p>从这个月开始今年的主线彻底确定为 XCPC 了。</p><p>四月重新开始拿小号打 codeforces，但思维水平和去年暑假相比几乎没有提升甚至还有倒退。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103165019444.png" alt="image-20230103165019444"></p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103165033115.png" alt="image-20230103165033115"></p><p>靠 Div. 4 狂 k 水题才能青名，这可不是个好消息。这样看来这么几个月以来我整个思维水平只能说是火箭一样的退步。</p><p>于是从这个月开始训练量开始提升。期间也有在认真学 OS 和 ICS. 但数据库是真不想学，或许是叛逆期到了（</p><p>虽然此时的水平十分惨烈，但是也开始对未来重新抱有期望了。玩游戏的时间也迅速变少。<del>或许是因为 Apex 的钻石终于上去松了一口气（？）</del></p><p>同时四月也是终于可以赚米了（。之前三月的时候老朋友 childofcuriosity 邀我一起去，但是因为长沙当时封得严重就一直难办。但其实也不是不可以出来，主要还有另一个原因就是我的老毛病社恐，任何与陌生人交流的事都总想逃避，差点直接推掉了。最后家长还是说可以开网课。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103165859668.png" alt="image-20230103165859668"></p><p>还有一件很奇怪的事，翻了微信聊天记录，今年四月她原来还找过我。在我的印象中和她最后的聊天就是 21 年 7 月关于修电脑的事了。还发现春节的时候她也和我问候过。原来我自己都忘了。她也终于从记忆中淡出去了，真好。不过为什么关系恢复正常之后她就继续叫 “老板” 了……为什么当时就没有我的称呼，只是一些奇怪的备注呢。这么看来，今年我还得去向她拜个年，我可不想欠别人的。</p><h2 id="May"><a href="#May" class="headerlink" title="May"></a>May</h2><p>5 月第一件事，和队友面基！</p><p>劳动节我们打算线下打多校训练。有一个队友因为个人原因这个学期一直没来学校，所以是我和 Hennessy 两个人。找不到合适的开黑打比赛地方，于是就去了宿舍外那个相对安静又可以讨论的地方。那是什么餐厅我不知道，店铺名也忘了，总之就是可以团建的那种地方……啥来着。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103172008065.png" alt="image-20230103172008065"></p><p>但是要消费才能入座，所以点了最便宜的饮料——也得二十来块。不过我当时并不心疼，因为每周上午都要去上网课，但室友一上午都在睡觉所以找不到地方我也是来的这里，一节课的工资比这点饮料钱还是多很多的，所以就一直来这了，所以，就有点习惯了？不过后来改成线下了，也就没再去这里，现在看来还是有点奢侈啦。</p><p>那天并没有做出来几道题，不过第一次面基，Hennessy 和我去后湖散了一圈，聊了挺多，也就真正熟悉了起来。</p><p>5号，我们确定了队名。其实也没想着长期用，但是后面一直懒得再取，而且这个队名也挺好的，就一直用了。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103172259706.png" alt="image-20230103172259706"></p><p>于是 Trust Chtholly 诞生了~ </p><p>10 号教满一个月的课程，好耶，是第一桶金！</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/8365EA970579FC292ED6324E4FC10212.jpg" alt="img"></p><p>整个五月我们的水平稳步提升，我的思维能力应该算是逐渐找回来了。</p><p>接着就是 22 号的校赛，我们的另一名队友 Adamska 同学仍然没有回来，所以只能双人成行了。我愿称之为咕咕大师，因为后来在一场更大一点的比赛他又因为有事咕了一半（</p><p>磕出了一个思维题，校赛成功金了，和去年相比也算有提升，何况这次我们只有两个人。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20220522222925698.png" alt=""></p><p>在<a href="https://noobzyk.top/2022/05/22/HNUPC2018/">另一篇博客</a>中有对校赛获奖的详细记录。</p><p>那时我就更加想成为一个 Candidate Master 了，虽然可惜最后还是没有达成目标。</p><h2 id="June"><a href="#June" class="headerlink" title="June"></a>June</h2><p>因为想再冲一个暑假，所以推辞掉了 OI 补习班的工作（暑假得天天去），打算专心比赛，这次兼职总共收入 3000.</p><p>Adamska 也在这一月终于归队，Trust Chtholly 的完全体第一次出现了！</p><p>首先是端午节没有回去留校<del>训练</del>玩，享受了三天的豪华单人寝。期间和小学同学狂下云顶，下到半夜两点半。羞愧。羞愧个屁啊我又不是第一次两点半睡觉（</p><p>这月经常头疼暴走，原因全部来自有点密集的小班讨论，几乎只有我一个人在做，组员都不管不问。我还是劝专业老师们不要照搬国外的小班讨论，就国内学校这环境来说实在是折磨人，反正是折磨到我了，组员全是哑巴，资料全我做老师还要找我的麻烦。不过 Adamska 老师遭遇了比我更猛的劫难：短短几天内完成 datalab、bomblab、bufferlab 和全套 ucore 实验。如果时间充足，做这些实验确实是一种享受，但逼起来性质就变了……</p><p>我们这月也正式开始了团队集训，晚上都住研楼 D 栋。</p><h2 id="July"><a href="#July" class="headerlink" title="July"></a>July</h2><p>进步很快的一个月，掌握并实践了许多中高级算法。但是懒癌犯了，面对超高温越来越不想出来到院楼去，而是在寝室里呆上一天。</p><p>然而偌大的院楼开个会还嫌我们校队只用一个教室用电用多了，要赶我们走。着实有点地狱了。稍微正常点的 ACM 集训队好歹会有个随便使用的大教室，我们不仅没有，只是来个无人教室开个灯吹个空调就让那么大个院楼受不了了……？</p><p>传统竞赛现在确实越来越不受待见了，但在我们学校确实还是有点过了。</p><p><img src="https://ekkepic.oss-cn-beijing.aliyuncs.com/img/image-20230103175150607.png" alt="image-20230103175150607"></p><p>CF 继续进步，但之后就没有再打了，咕咕咕了。我个人觉得剩下的时间得好好补算法，有太多基础东西不会了。这是不是和大家的竞赛学习顺序有点颠倒了？（</p><p>对了，上大分的这天，31 号，是我的农历生日，然而我自己都忘了，还是母亲的电话我才知道。于是我毫无防备地就让自己的 19 岁偷偷溜走了。再也没有 1 打头的年纪了。再摆一遍我在之前博客已经摆过的：</p><blockquote><p>人不是慢慢长大的，人是一瞬间长大的一样，18之后是19，处于19那个阶段特别想回到18吧，可是时间一直向前，不作停留，给你的回报只是我们称为成熟的东西。</p><p>——村上春树</p></blockquote><h2 id="August"><a href="#August" class="headerlink" title="August"></a>August</h2><p>这个月继续训练，总结杭电多校的题。队内知识点分工时数学出了点问题，没有人会数学……数学太难了。不过队友们的图论、DP和字符串确实比较稳。而我就做做思维题和计算几何混一混？（</p><p>我也是主要负责队内的数据结构，但奈何 XCPC 上的数据结构几乎都是金牌题，还是有点难啃的。</p><p>这个月也有点力不从心，开始转移注意力了。先是老朋友开了个 MC 服叫我帮忙去管理下，靠着年初积累和常年积累的资料查询能力自认为还是做的比较好的，搞了很多地图，只不过服务器最后也是无疾而终就是了。</p><p>然后室友回来后居然入坑 Apex 了，但很可惜我们没咋一起玩：我在重新冲白金的时候他还在新手村摸爬滚打，等到他有点技术了我的电脑彻底对 Apex 单方面报废玩不了了，悲。后来也就慢慢失去了对这个游戏的热情吧。</p><h2 id="September-amp-October"><a href="#September-amp-October" class="headerlink" title="September &amp; October"></a>September &amp; October</h2><p>本来想融入一下新班级的，但是好像大家都没这意思，好像比之前的班级还要更冷清……哈哈</p><p>但是分流出来的专业课还是比较满意的，除了 AI 的老师不太行，然后人机交互事有点多。如果没分出来这学期我得忙死，对我这种懒狗来说就根本没机会继续和队友们刷往年比赛了。但 Adamska 是真的有毅力，留在原来专业陪我和 Hennessy 一起坚持训练，这两个月的提升也很大，踩了很多坑，也让我们更加自信了。</p><p>对了，从这学期开始我重新开始写自己的软渲染器，这次真的把很多东西弄懂了。我觉得收获是很大的，图形学方面，在实时渲染上我已经算是入了小门吧。</p><h2 id="November"><a href="#November" class="headerlink" title="November"></a>November</h2><p>银了！做梦都不敢想的成绩。原本以为我们今年大概率拿个铜牌或者几个铜牌，没想到开场就是银。另：这场 Adamska 只打了一半就去期中考试了，留下我和 Hennessy 两个人调了半天大模拟。而那个大模拟在那场对我们来说就是一个稳金题。金牌我还是不太敢想……区域赛以后也不会有了，除了 Final。</p><p>没错，我们应该是获得东亚 Final 的机会啦。Final 拿金牌确实有点天方夜谭了，毕竟大家都觉得 Final 铜  &gt; 其他银。</p><h2 id="December"><a href="#December" class="headerlink" title="December"></a>December</h2><p>打完今年的区域赛之后，和一队打了一次星，感受他们恐怖的实力，真的是湖大之光了。我坐着几乎是挂机，俩人也能打进前 15，恐怖如斯，太强了。神级学弟还说有一题是和我讨论的结果给我点面子，但其实我也只是口胡了大方向，具体算法还是他迅速给出的……</p><p>没啥事就回家了，学校发自愿返乡了。1 月到 11 月一直在做核酸，结果 12 月阳了。</p><p>19 号开始发烧，特别难受，到现在才缓过点神来，但我好像又变成废人了……啥也不想干只知道玩。希望能尽快继续学习吧。我想我真的得开始尝试去触碰从初中就开始的梦想了……</p><p>新的一年不想立太多 flag，好好生活吧，然后做自己想做的。</p><p>写在这里<del>，防止未来自己的岁月史书</del>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今年看起来好像平平无奇，但也有一些闪光点。总之让我意识到自己是个缺乏恒心，难以坚持的人。好在自己也有心鞭策自己，成绩和成长也是有的。&lt;/p&gt;
+&lt;h2 id=&quot;January&quot;&gt;&lt;a href=&quot;#January&quot; class=&quot;headerlink&quot; title=&quot;Janu</summary>
+      
+    
+    
+    
+    
+    <category term="寻路" scheme="https://eykenis.github.io/tags/%E5%AF%BB%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>开始新的学习——GAMES202笔记</title>
@@ -417,28 +440,6 @@
     <category term="NTT" scheme="https://eykenis.github.io/tags/NTT/"/>
     
     <category term="数学" scheme="https://eykenis.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2021ICPC济南记</title>
-    <link href="https://eykenis.github.io/2021/11/17/2021ICPC%E6%B5%8E%E5%8D%97%E8%AE%B0/"/>
-    <id>https://eykenis.github.io/2021/11/17/2021ICPC%E6%B5%8E%E5%8D%97%E8%AE%B0/</id>
-    <published>2021-11-17T03:12:06.000Z</published>
-    <updated>2022-07-14T09:16:16.151Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="2021-11-14-济南打铁…"><a href="#2021-11-14-济南打铁…" class="headerlink" title="2021.11.14 济南打铁…"></a>2021.11.14 济南打铁…</h2><p>抛开题目本身严重出锅的问题，也是因为自己签到慢的一批还乱WA而导致签到就能拿的铜牌不翼而飞…</p><p>对不起，以后再也不要让本蒟蒻来做签到了qwq（CF签到我2分钟一个，区域赛签到我两小时调不出，真的绝绝子）</p><p>队友死磕D无果，G有思路但时间不够+赛后发现离正解也差得远，C越想越糊，其余题开不动。</p><p>就这样本队第一次出征打铁了。</p><p>感觉在区域赛这方面自己还是一片空白，目前的进度只是学会了很多板子和CF做一做1800以下的题而已。而意识到这些之后，上海站也只剩下十来天了。。。看来得寄希望于明年了。（废物JBer叹气）</p><p>感觉自己是真的废物。。。废到不敢吱声那种。</p><p>以后我就是双铁战神了！（十天以后三铁战神flag）</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;2021-11-14-济南打铁…&quot;&gt;&lt;a href=&quot;#2021-11-14-济南打铁…&quot; class=&quot;headerlink&quot; title=&quot;2021.11.14 济南打铁…&quot;&gt;&lt;/a&gt;2021.11.14 济南打铁…&lt;/h2&gt;&lt;p&gt;抛开题目本身严重出锅的问题，</summary>
-      
-    
-    
-    
-    <category term="XCPC" scheme="https://eykenis.github.io/categories/XCPC/"/>
-    
     
   </entry>
   
