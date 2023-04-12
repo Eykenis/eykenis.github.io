@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eykenis.github.io/2023/04/07/xv6-labs-2022/</loc>
+    
+    <lastmod>2023-04-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eykenis.github.io/2023/03/29/2022ECFinal/</loc>
     
     <lastmod>2023-04-12</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://eykenis.github.io/2023/03/22/MIT18-06-Linear-Algebra/</loc>
     
     <lastmod>2023-04-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eykenis.github.io/2023/04/07/xv6-labs-2022/</loc>
-    
-    <lastmod>2023-04-08</lastmod>
     
   </url>
   
