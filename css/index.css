@@ -2928,6 +2928,38 @@ blockquote footer cite:before {
   -ms-flex-direction: column;
   flex-direction: column;
 }
+.page .card-recent-post {
+  -webkit-box-ordinal-group: '2# Don't modify the setting unless you know how it works';
+  -moz-box-ordinal-group: '2# Don't modify the setting unless you know how it works';
+  -o-box-ordinal-group: '2# Don't modify the setting unless you know how it works';
+  -ms-flex-order: '2# Don't modify the setting unless you know how it works';
+  -webkit-order: '2# Don't modify the setting unless you know how it works';
+  order: '2# Don't modify the setting unless you know how it works';
+}
+.page .card-categories {
+  -webkit-box-ordinal-group: '1# Don't modify the setting unless you know how it works';
+  -moz-box-ordinal-group: '1# Don't modify the setting unless you know how it works';
+  -o-box-ordinal-group: '1# Don't modify the setting unless you know how it works';
+  -ms-flex-order: '1# Don't modify the setting unless you know how it works';
+  -webkit-order: '1# Don't modify the setting unless you know how it works';
+  order: '1# Don't modify the setting unless you know how it works';
+}
+.page .card-tags {
+  -webkit-box-ordinal-group: '3# Don't modify the setting unless you know how it works';
+  -moz-box-ordinal-group: '3# Don't modify the setting unless you know how it works';
+  -o-box-ordinal-group: '3# Don't modify the setting unless you know how it works';
+  -ms-flex-order: '3# Don't modify the setting unless you know how it works';
+  -webkit-order: '3# Don't modify the setting unless you know how it works';
+  order: '3# Don't modify the setting unless you know how it works';
+}
+.page .card-archives {
+  -webkit-box-ordinal-group: '';
+  -moz-box-ordinal-group: '';
+  -o-box-ordinal-group: '';
+  -ms-flex-order: '';
+  -webkit-order: '';
+  order: '';
+}
 @-moz-keyframes more-btn-move {
   0%, 100% {
     -webkit-transform: translateX(0);
